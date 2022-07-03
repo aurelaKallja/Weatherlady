@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b27cd828-26c3-4478-834b-1772c093ae52" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/services/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/services/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/WeatherServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/services/WeatherServicesImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resouces/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resouces/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/Users/aurela/IdeaProjects/Weatherlady",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
