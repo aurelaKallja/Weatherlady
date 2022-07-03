@@ -17,6 +17,6 @@
         <property name="show_sql">true</property>
         <property name="hibernate.hbm2ddl.auto">create</property>
 
-        <mapping class="Services.Location"></mapping>
+        <mapping class="org.example.services.Location"></mapping>
     </session-factory>
 </hibernate-configuration>

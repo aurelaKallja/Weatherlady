@@ -1,4 +1,4 @@
-package Services;
+package org.example.services;
 
 public class Main {
     public static void main(String[] args) {

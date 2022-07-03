@@ -1,4 +1,4 @@
-package Services;
+package org.example.services;
 
 import jakarta.persistence.*;
 import lombok.Data;
